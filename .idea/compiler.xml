@@ -11,6 +11,7 @@
         <module name="Lista1" />
         <module name="Lista4" />
         <module name="Lista3" />
+        <module name="Lista5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +19,7 @@
       <module name="Lista2" target="11" />
       <module name="Lista3" target="11" />
       <module name="Lista4" target="11" />
+      <module name="Lista5" target="11" />
       <module name="teste" target="11" />
     </bytecodeTargetLevel>
   </component>
