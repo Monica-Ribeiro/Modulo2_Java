@@ -11,6 +11,7 @@
         <module name="Lista1" />
         <module name="Prova" />
         <module name="Lista8" />
+        <module name="Lista9" />
         <module name="Lista4" />
         <module name="Lista3" />
         <module name="Lista6" />
@@ -25,6 +26,7 @@
       <module name="Lista5" target="11" />
       <module name="Lista6" target="11" />
       <module name="Lista8" target="11" />
+      <module name="Lista9" target="11" />
       <module name="Prova" target="11" />
       <module name="teste" target="11" />
     </bytecodeTargetLevel>
